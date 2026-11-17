@@ -1,0 +1,6 @@
+{
+  "name": "MoveCam",
+  "description": "Book • Move • Relocate — Your Trusted Moving Partner in Cameroon.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
